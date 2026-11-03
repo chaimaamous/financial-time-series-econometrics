@@ -37,3 +37,21 @@ Simulated ARMA processes help explain autocorrelation patterns, while real finan
 Master's Student in Finance, Actuarial Science and Data Science
 
 Université Abdelmalek Essaâdi, Morocco
+
+## Project Files
+
+- [Python Jupyter Notebook](python/financial_time_series_analysis.ipynb) — Financial data analysis and automation.
+- [R Econometrics Script](R/financial_time_series.R) — Financial returns and ARMA analysis.
+- [Python Dependencies](requirements.txt) — Required Python packages.
+
+## How to Run
+
+Install Python dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Open `python/financial_time_series_analysis.ipynb` in Jupyter Notebook or VS Code.
+
+The R analysis requires an R environment and the relevant R packages.
